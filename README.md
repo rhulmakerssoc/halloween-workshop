@@ -1,0 +1,2 @@
+- Compile this with [`marp`](https://github.com/marp-team/marp-cli)
+- `marp index.md`
