@@ -29,8 +29,8 @@ style: |
 
 Choose between either:
 
-- Tinkercard or (slide X)
-- Fusion (slide Y)
+- Tinkercard [slide 2](#2)
+- Fusion [slide 6](#6)
 
 ---
 
@@ -45,7 +45,7 @@ Choose between either:
 
 ## Tinkercad pt. 2
 
-3. Download `Pumpkin_tinkercad.stl` from [GitHub](INSERT LINK)
+1. Download `Pumpkin_tinkercad.stl` from [GitHub](https://github.com/rhulmakerssoc/halloween-workshop/raw/refs/heads/main/Pumpkin_tinkercad.stl)
 
 ![GitHub download](image-1.png)
 
@@ -74,3 +74,45 @@ Choose between either:
 ![Tinkercad underneath](image-5.png)
 
 8. Go to `Export > STL`, Ta-da! You have a pumpkin, export it and [email it to us](mailto:makers@royalholloway.su) - we will let you know what colours we have in the lab :)
+
+---
+
+## Fusion pt. 1
+
+1. Open and login to Fusion with your student Autodesk account (refer back to the [Fusion introduction workshop](https://docs.google.com/viewerng/viewer?url=https://drive.usercontent.google.com/download?id%3D17DfQbfLrG5M7RBt3flyoxVKxe2yLPsYz) if you need to create an account)
+    Download the `Pumpkin_fusion.f3d` from [GitHub](https://github.com/rhulmakerssoc/halloween-workshop/raw/refs/heads/main/Pumpkin_fusion.f3d)
+
+![Fusion download](image-1.png)
+
+1. Open the downloaded file in Fusion
+
+---
+
+## Fusion pt. 2
+
+3. Once opened, hide the pumpkin model by clicking on the eye symbol next to `Body1`
+
+![Fusion hide pumpkin](image-6.png)
+
+4. To add your design, double click on the sketch in the timeline along the bottom
+
+![Fusion timeline](image-7.png)
+
+---
+
+## Fusion pt. 3
+
+5. Use the skills you learnt in the Fusion introduction workshop to sketch your design (Ask a committee member or refer back to the lab sheet). Ensure that your design stays within the construction rectangle that is already in the sketch for you
+6. When you have finished your sketch, unhide the pumpkin model
+7. Go to `Create > Extrude`, and select your sketch
+
+---
+
+## Fusion pt. 4
+
+8. In the panel that has appeared, change `Operation` to `Cut`
+
+![Fusion cut](image-8.png)
+
+9. Set `Distance` to `-20mm`
+10. Ta-da! You have a pumpkin, export it and [email it to us](mailto:makers@royalholloway.su) - we will let you know what colours we have in the lab
